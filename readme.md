@@ -5,7 +5,7 @@ Application démo Spring Batch pour la génération automatisée de fiches de pa
 ## Description
 
 - **Planification automatique** : Génération le 1er de chaque mois à 2h
-- **Calculs métier basique** : Salaire brut, charges sociales (22%), impôts (10%), net
+- **Calcul métier basique** : Salaire brut, charges sociales (22%), impôts (10%), net...
 - **PDFs professionnels** : Génération avec iText7
 - **Archivage S3** : Stockage automatique sur MinIO (compatible AWS S3)
 
